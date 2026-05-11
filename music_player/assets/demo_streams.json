@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Apple BipBop",
+    "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8",
+    "description": "Apple official HLS demo stream"
+  },
+  {
+    "name": "Mux Test Stream",
+    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+    "description": "Mux public HLS test stream"
+  },
+  {
+    "name": "Akamai Live Test",
+    "url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8",
+    "description": "Akamai public live test stream"
+  }
+]

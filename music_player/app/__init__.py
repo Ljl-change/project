@@ -1,0 +1,1 @@
+"""Aurora Player application package."""

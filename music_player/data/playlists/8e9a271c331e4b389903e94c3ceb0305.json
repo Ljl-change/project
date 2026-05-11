@@ -1,0 +1,24 @@
+{
+  "id": "8e9a271c331e4b389903e94c3ceb0305",
+  "name": "22",
+  "tracks": [
+    {
+      "id": "8d84fb26ee966ea997bb7210b33b1118b02c0618",
+      "title": "我不存在的世界",
+      "file_path": "C:\\Users\\pc\\Desktop\\我不存在的世界 - 潘韵淇.ogg",
+      "artist": "潘韵淇",
+      "album": "我不存在的世界",
+      "duration_ms": 259791,
+      "cover_path": ""
+    },
+    {
+      "id": "d853883bce1022fb166358399e4dc1eb0aae3915",
+      "title": "壁上观 - 一棵小葱 _ 张曦匀",
+      "file_path": "C:\\Users\\pc\\Desktop\\壁上观 - 一棵小葱 _ 张曦匀.ogg",
+      "artist": "",
+      "album": "",
+      "duration_ms": 0,
+      "cover_path": ""
+    }
+  ]
+}
